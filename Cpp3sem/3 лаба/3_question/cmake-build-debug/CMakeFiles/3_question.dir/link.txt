@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/3_question.dir/Struct_calling.c.o -o 3_question 

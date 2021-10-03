@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/egor/Рабочий стол/Cpp3sem/1 и 2 лабы/SortOnAssNew.c
+stdio.h
+/home/egor/Рабочий стол/Cpp3sem/1 и 2 лабы/stdio.h
+malloc.h
+-
+
