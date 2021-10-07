@@ -1,3 +1,0 @@
-/home/egor/Рабочий стол/Cpp3sem/3 лаба/2_question/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/egor/Рабочий стол/Cpp3sem/3 лаба/2_question/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/egor/Рабочий стол/Cpp3sem/3 лаба/2_question/cmake-build-debug/CMakeFiles/2_question.dir

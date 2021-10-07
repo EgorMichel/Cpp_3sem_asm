@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/2_question.dir/Dynamic_arr.c.o -o 2_question 

@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/Cpp3sem.dir/Sort_for_asm.cpp.o -o Cpp3sem 
